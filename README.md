@@ -10,7 +10,7 @@ A responsive beginner portfolio project with comments explaining important conce
 
 ## Run it
 
-1. Extract the ZIP.
+1. Download this code
 2. Keep the folders in the same structure.
 3. Open `index.html` in a modern browser.
 4. Edit the sample name, biography, skills, project descriptions, and contact details.
